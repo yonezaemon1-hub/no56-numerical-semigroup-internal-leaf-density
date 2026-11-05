@@ -1,8 +1,9 @@
 No.56 v1.0 — 2026-11-05
-READY TO RELEASE / NOT YET PUBLISHED
-GitHub: public repository created; Release v1.0 pending
-Zenodo: draft 23981119 created; publication pending
-DOI: 10.5281/zenodo.23981119 (reserved; not registered until publication)
+PUBLISHED — GitHub Release v1.0 and Zenodo Preprint
+GitHub: https://github.com/yonezaemon1-hub/no56-numerical-semigroup-internal-leaf-density
+Release: https://github.com/yonezaemon1-hub/no56-numerical-semigroup-internal-leaf-density/releases/tag/v1.0
+Zenodo: https://zenodo.org/records/23981119
+DOI: 10.5281/zenodo.23981119 (registered; resolution verified)
 MATH: independent AI audit PASS within author-reported scope
 WINDOWS: author-run PowerShell 5.1 Python+C++17 PASS; original transcript hash match inherited from supplied audit record; raw log not re-inspected here
 LINUX RELEASE PREPARATION: supplied Python, C++17 and interval verifiers PASS
@@ -10,3 +11,4 @@ REFERENCES PARTIAL / NOVELTY INCONCLUSIVE
 NOT HUMAN PEER-REVIEWED
 LICENSE: All rights reserved
 PRIVATE RAW LOG: excluded
+PUBLIC DOWNLOAD VERIFICATION: GitHub PDF/ZIP and Zenodo PDF/ZIP, 4/4 SHA256, size and exact bytes match.

@@ -1,6 +1,6 @@
 # No.56 — v1.0 preprint
 
-**v1.0 limited preprint; author-authorized publication.**
+**Published v1.0 limited preprint — GitHub and Zenodo, 5 November 2026.**
 
 ## Title
 Internal–Leaf Inequalities and a Positive Limiting Leaf Density for Numerical Semigroups with Frobenius Number $2m+3$
@@ -23,3 +23,9 @@ Human peer review: Not human peer-reviewed
 DOI: 10.5281/zenodo.23981119
 
 GitHub repository: https://github.com/yonezaemon1-hub/no56-numerical-semigroup-internal-leaf-density
+
+GitHub Release v1.0: https://github.com/yonezaemon1-hub/no56-numerical-semigroup-internal-leaf-density/releases/tag/v1.0
+Zenodo record: https://zenodo.org/records/23981119
+DOI: https://doi.org/10.5281/zenodo.23981119
+
+Public PDF and ZIP were re-downloaded from both services: 4/4 SHA256, exact size and byte identity PASS.
