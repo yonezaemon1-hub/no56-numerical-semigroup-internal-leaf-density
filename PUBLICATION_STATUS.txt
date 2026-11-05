@@ -1,0 +1,12 @@
+No.56 v1.0 — 2026-11-05
+READY TO RELEASE / NOT YET PUBLISHED
+GitHub: public repository created; Release v1.0 pending
+Zenodo: draft 23981119 created; publication pending
+DOI: 10.5281/zenodo.23981119 (reserved; not registered until publication)
+MATH: independent AI audit PASS within author-reported scope
+WINDOWS: author-run PowerShell 5.1 Python+C++17 PASS; original transcript hash match inherited from supplied audit record; raw log not re-inspected here
+LINUX RELEASE PREPARATION: supplied Python, C++17 and interval verifiers PASS
+REFERENCES PARTIAL / NOVELTY INCONCLUSIVE
+NOT HUMAN PEER-REVIEWED
+LICENSE: All rights reserved
+PRIVATE RAW LOG: excluded
