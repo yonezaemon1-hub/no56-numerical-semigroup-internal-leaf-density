@@ -83,3 +83,10 @@ b3d94afab5686bedeb23b1f961b5b69830faa008284127ff776e2677d0b49fee
 This is metadata only. The private raw Windows log, machine identifiers, user identifiers, local filesystem paths, and internal audit histories are excluded. A matching hash confirms submitted bytes against a reported hash; it does not independently authenticate the machine execution process. The raw transcript was not part of the v0.3.1 publication candidate and was not re-inspected during this preparation.
 
 The v0.3.1 bibliography session checked primary-source metadata and selected passages. Comprehensive theorem-level overlap checking remains incomplete. **REFERENCES PARTIAL / NOVELTY INCONCLUSIVE / NOT HUMAN PEER-REVIEWED.**
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
